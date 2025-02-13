@@ -12,7 +12,7 @@ This Project was created to manage the hostel details. Using this application, w
 
 (5)  Delete the unwanted hostel details
 
-(6)  Delete all the hostel details.
+(6)  Delete all the hostel details
 
 ### Tech Stack used:
 JAVA 1.8 , Springboot, SpringData JPA, H2 database, RestAPIs.
