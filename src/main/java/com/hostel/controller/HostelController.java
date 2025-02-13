@@ -35,6 +35,7 @@ public class HostelController {
 	public Hostel addHostel(@RequestBody @Valid Hostel hostel) {
 			log.info("inside add Hostel method");
 			log.debug("inside add Hostel method");
+			log.info("inside add Hostel method");
 			return hostelService.addHostel(hostel);
 	}
 	
